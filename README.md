@@ -107,10 +107,6 @@ The app uses React Hooks to manage data and interactions:
 ---
 
 ## **Author**
-**Monia Nijimbere** – Ashesi University – Computer Science  
+**Monia Nijimbere**   
 
----
 
-## **Live Demo**
-(If deployed, you can add a link here)  
-[Live Demo Link](#)
